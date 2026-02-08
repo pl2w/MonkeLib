@@ -145,8 +145,8 @@
             <Private>false</Private>
         </Reference>
 
-        <Reference Include="Utilla">
-            <HintPath>$(GorillaTagDir)/BepInEx/plugins/Utilla.dll</HintPath>
+        <Reference Include="UnityEngine.ImageConversionModule">
+            <HintPath>$(GorillaTagDir)/Gorilla Tag_Data/Managed/UnityEngine.ImageConversionModule.dll</HintPath>
             <Private>false</Private>
         </Reference>
     </ItemGroup>

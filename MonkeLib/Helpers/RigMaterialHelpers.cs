@@ -9,16 +9,16 @@ public enum GameModeMaterials
     // Hunt
     Hunt = 3,
     // PaintBrawl
-    // Red Team
-    PaintBrawlRedTeam = 4,
-    PaintBrawlRedTeamHit = 5,
-    PaintBrawlRedTeamStunned = 6,
-    PaintBrawlRedTeamEliminated = 7,
     // Blue Team
-    PaintBrawlBlueTeam = 8,
-    PaintBrawlBlueTeamHit = 9,
-    PaintBrawlBlueTeamStunned = 10,
-    PaintBrawlBlueTeamEliminated = 11,
+    PaintBrawlBlueTeam = 4,
+    PaintBrawlBlueTeamHit = 5,
+    PaintBrawlBlueTeamStunned = 6,
+    PaintBrawlBlueTeamEliminated = 7,
+    // Red Team
+    PaintBrawlRedTeam = 8,
+    PaintBrawlRedTeamHit = 9,
+    PaintBrawlRedTeamStunned = 10,
+    PaintBrawlRedTeamEliminated = 11,
     // No Team
     PaintBrawlNoTeam = 0,
     PaintBrawlNoTeamHit = 1,
