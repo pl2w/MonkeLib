@@ -1,4 +1,10 @@
+using UnityEngine;
+
 namespace MonkeLib.Helpers;
+
+public static class RigMaterialHelpers
+{
+}
 
 public enum GameModeMaterials
 {
